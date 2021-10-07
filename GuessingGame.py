@@ -2,7 +2,7 @@
 # File        : GuessingGame.py
 # Created     : 01/10/2021
 # Author      : James Bowman
-# Version     : v1.0.0
+# Version     : v1.0.1
 # Licensing   : (C) James Bowman
 #               Available under GNU Public License (GPL)
 # Description : Simple Guessing Game
